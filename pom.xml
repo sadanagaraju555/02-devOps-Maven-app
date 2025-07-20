@@ -25,5 +25,4 @@
     <artifactId>spring-context</artifactId>
     <version>7.0.0-M7</version>
 </dependency>
-  </dependencies>
 </project>
